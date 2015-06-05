@@ -1,0 +1,8 @@
+{
+    "name": "polymorphism-with-inheritance",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "inquirer" : "*"
+    }
+}
